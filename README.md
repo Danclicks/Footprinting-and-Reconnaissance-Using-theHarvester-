@@ -5,7 +5,7 @@ A practical cybersecurity internship exercise using theHarvester in Kali Linux t
 
 Tasks Performed
 - Email and subdomain enumeration using Baidu (limit: 1,000).
-- Email and subdomain enumeration using all supported sources (limit: 50).
+- Email and subdomain enumeration using all supported sources (limit: 500).
 
 Skills Practised
 - Open-Source Intelligence (OSINT).
